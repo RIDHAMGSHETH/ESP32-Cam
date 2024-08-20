@@ -1,7 +1,3 @@
-Here's a more detailed README file for your ESP32 Camera project:
-
----
-
 # ESP32 Camera Project
 
 This project leverages the capabilities of the ESP32 camera module to demonstrate four key functionalities: local camera access, flashlight control, video streaming over a global network, and image retrieval using a Telegram bot. Each feature showcases the versatility of the ESP32 in real-world applications, from home automation to IoT-based surveillance.
@@ -66,6 +62,3 @@ The ESP32 module is programmed using the Arduino IDE. The project involves setti
 - Integration with cloud storage for saving images and videos.
 - Implementing face recognition for enhanced security.
 
----
-
-This README provides a comprehensive overview, setup instructions, and future scope while maintaining a structured flow.
